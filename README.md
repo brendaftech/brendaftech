@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">My name is Brenda 👩🏻‍💻, and I am a cybersecurity student focused on automation ⚙️, API integrations 🔗, and data analysis 📊. I use this GitHub to showcase my projects 🚀 and track my progress in the IT field 📈.</h3>
+<h3 align="left">My name is Brenda 👩🏻‍💻, and I am a cybersecurity student</h3>
 
 ###
 
